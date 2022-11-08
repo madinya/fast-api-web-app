@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mangum
+jinja2
+aiofiles
+python-multipart
